@@ -24,4 +24,4 @@ Clone this repo into new project folder (e.g., `my-proj`).
 git clone  https://github.com/karthibeit/attribute-directives  my-proj
 cd my-proj
 ```
-[![Karthi A]][travis-badge-url]
+    >By Karthi.A
