@@ -1,6 +1,6 @@
 # Angular 2 Attribute directives
 
-[![What][is]][travis-badge-url]
+[![CircleCI](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)]()
 
 An Attribute directive changes the appearance or behavior of a DOM element
 
